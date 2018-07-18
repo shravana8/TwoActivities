@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="button_second">REPLY</string>
+    <string name="text_message">This is the massage</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_second">Enter Your Replay Here</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="button_main">SEND</string>
+    <string name="send">Send</string>
+    <string name="text_header_reply">Reply Receiveed</string>
+
+</resources>
